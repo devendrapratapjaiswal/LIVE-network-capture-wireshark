@@ -1,6 +1,6 @@
 # Task 5 – Capture and Analyze Network Traffic Using Wireshark
 
-This repository contains the complete work for **Task 5** of my Cybersecurity Internship at **ElevateLabs (Bengaluru)**.  
+This repository contains the complete work for **Task 5** of my Cybersecurity Internship at **ElevateLabs**.  
 The goal of this task was to capture live network traffic using **Wireshark**, analyze the protocols, and understand packet-level communication.
 
 ---
